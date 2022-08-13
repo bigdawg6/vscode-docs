@@ -1,4 +1,5 @@
----
+auth flow on
+platformio
 Order: 14
 Area: cpp
 TOCTitle: FAQ
@@ -7,8 +8,8 @@ PageTitle: C/C++ extension FAQ
 DateApproved: 5/22/2020
 MetaDescription: Frequently asked questions about the C/C++ extension in Visual Studio Code.
 ---
-# Frequently asked questions
-
+is intellisense on# Frequently asked questions
+[yes]
 - [Why are my files corrupted on format?](#why-are-my-files-corrupted-on-format)
 - [How do I get IntelliSense to work correctly?](#how-do-i-get-intellisense-to-work-correctly)
 - [Why do I see red squiggles under Standard Library types?](#why-do-i-see-red-squiggles-under-standard-library-types)
