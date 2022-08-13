@@ -1,4 +1,4 @@
----
+---Chrome (Code)[#5189](https://github.com/microsoft/vscode-docs/issues/5189)
 Order: 13
 Area: cpp
 TOCTitle: Configure IntelliSense for cross-compiling
